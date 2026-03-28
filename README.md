@@ -8,8 +8,8 @@ All code is typed and run independently — not copied. This repo exists as a le
 
 | # | Topic | Status |
 |---|-------|--------|
-| 1 | Introduction | In Progress |
-| 2 | PyTorch Fundamentals | — |
+| 1 | Introduction | ✓ |
+| 2 | PyTorch Fundamentals | In Progress |
 | 3 | PyTorch Workflow | — |
 | 4 | Neural Network Classification | — |
 | 5 | Computer Vision (CNN) | — |
